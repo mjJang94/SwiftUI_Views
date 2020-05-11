@@ -1,6 +1,8 @@
-# SwiftUI_Views
-1. Slider
-2. Picker
-3. Animation
+# SwiftUI 스터디
 
-에 대한 swift_ui 학습
+적용된 view 구성들은 아래와 같다.
+- Slider
+- Picker
+- Animation
+
+
